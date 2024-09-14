@@ -11,4 +11,5 @@ Chosen projects:
 -29: Language competition dynamics [score 0.4]
 
 3) Data Analytics
+   
 -43: Social connectedness index I from Facebook [score 1.0]
