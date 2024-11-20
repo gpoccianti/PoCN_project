@@ -1,4 +1,4 @@
-# PoCN_project_Gabriele_Poccianti
+# PoCN_project
 
 In this repository, you will find reports, code, and data output for the projects related to the course *Physics of Complex Networks: Structure and Dynamics* (AY 2023/2024, Master degree program in *Physics of Data*, University of Padova).
 
