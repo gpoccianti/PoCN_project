@@ -36,3 +36,7 @@ In this repository, you will find reports, code, and data output for the project
   > * **Edges** represent the SCI "friendship" link between pairs of counties (`nodeID_from`, `nodeID_to`).
   >
   > After constructing the graph for each state, the project involves a **simplified comparative network analysis**. This includes calculating and comparing key topological metrics (e.g., density, average degree, clustering) to understand and contrast the structural patterns of social connectedness across different US states.
+
+<p align="center">
+<img src="/data/task_43/Plot_strength/network_plots_strength_California.png" alt="California Network Strength Plot">
+</p>
