@@ -10,9 +10,9 @@ In this repository, you will find reports, code, and data output for the project
   > 
   > The objective of this project is to implement and simulate the foundational swarmalator model. We numerically analyze its behavior by exploring the key **K-J parameter space** to reproduce the five distinct collective states identified in the literature: **Static Sync**, **Static Async**, **Static Phase Wave**, **Splintered Phase Wave**, and **Active Phase Wave**. The analysis also investigates the model's dynamics across different synthetic network topologies, as required by the course.
 
-  <p align="center">
-  <a href="data/task_20/Animations/Complete Network/swarmalators_complete_N=300,T=2000,dt=0.05,K=-0.60,J=0.90.mp4" title="Click to watch the full video">
-    <img src="data/task_20/Animations/Complete Network/swarmalators_preview.gif" alt="Swarmalators Animation Preview">
+<p align="center">
+  <a href="/data/task_2Z0/Animations/Complete Network/swarmalators_complete_N=300,T=2000,dt=0.05,K=-0.60,J=0.90.mp4" title="Click to watch the full video">
+    <img src="/data/task_20/Animations/Complete Network/swarmalators_complete_N=300,T=2000,dt=0.05,K=-0.60,J=0.90.gif" alt="Swarmalators Animation Preview">
   </a>
   <br>
   <em>N=300,T=2000,dt=0.05,K=-0.60,J=0.90</em>
